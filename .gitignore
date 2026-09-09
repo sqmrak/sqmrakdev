@@ -1,3 +1,20 @@
+# the site is generated: the packages, the indexes and the storefront pages are
+# all products of ./refresh.sh and are published to gh-pages, not tracked here.
+# what is tracked is everything needed to rebuild them, and the ledger of what
+# has already gone out, without which the immutability check cannot work from a
+# fresh clone
 *
-!README.md
+
 !.gitignore
+!README.md
+!repo.conf
+!refresh.sh
+!publish.sh
+!published.json
+!depiction-template.html
+!index-template.html
+!CydiaIcon.png
+!assets/
+!assets/*
+!tools/
+!tools/*.py

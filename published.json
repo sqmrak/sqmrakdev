@@ -1,0 +1,18 @@
+{
+  "nightly": {
+    "09092026-patch1-nightly": {
+      "file": "senko-v09092026-patch1-nightly.deb",
+      "sha256": "1198f881c17749a68787de344b276eac610442f74286e3834db3feb4942daf93"
+    },
+    "09092026-patch2-nightly": {
+      "file": "senko-v09092026-patch2-nightly.deb",
+      "sha256": "41702527aa6a8c8a83592a3bbc20cb47250108cad4ab12e5950e8b7b1e0bb34a"
+    }
+  },
+  "stable": {
+    "2.0.0-stable": {
+      "file": "senko-v2.0.0-stable.deb",
+      "sha256": "63a224b15d7f80f4bb8e2ffcd280bc386650f529d39a3386b3e5b417a3afadcd"
+    }
+  }
+}
