@@ -1,20 +1,9 @@
-# the site is generated: the packages, the indexes and the storefront pages are
-# all products of ./refresh.sh and are published to gh-pages, not tracked here.
-# what is tracked is everything needed to rebuild them, and the ledger of what
-# has already gone out, without which the immutability check cannot work from a
-# fresh clone
+# the site is generated and published to gh-pages; the build tooling stays local.
+# published.json is the exception: it records which bytes went out under which
+# version, and refresh.sh refuses to reuse a version or drop a published build
+# on the strength of it
 *
 
 !.gitignore
 !README.md
-!repo.conf
-!refresh.sh
-!publish.sh
 !published.json
-!depiction-template.html
-!index-template.html
-!CydiaIcon.png
-!assets/
-!assets/*
-!tools/
-!tools/*.py
