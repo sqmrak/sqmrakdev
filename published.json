@@ -23,6 +23,10 @@
     "09102026-patch1-nightly": {
       "file": "senko-v09102026-patch1-nightly.deb",
       "sha256": "68546d8a0603a2c1a9def1a1b44dd1d88ed98eca99418281572d4df433f37aa0"
+    },
+    "09102026-patch2-nightly": {
+      "file": "senko-v09102026-patch2-nightly.deb",
+      "sha256": "e6ef1c7fa8ae42105659e53bc8dc2dfe4ece40db3373fba30782b421bd060393"
     }
   },
   "stable": {
