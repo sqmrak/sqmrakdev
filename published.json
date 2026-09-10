@@ -4,6 +4,10 @@
       "file": "pikaby-v0.1.0-prototype.deb",
       "sha256": "60b6a4ef7d7f375fda62da0b86116f2827bbd6e5a25479d6c98a303a0c847fd8"
     },
+    "0.1.1-prototype": {
+      "file": "pikabu-v0.1.1-prototype.deb",
+      "sha256": "94ac3b23c2222bcc2b80d8eec9ece63735b2516e3134811018b28025bb5837f5"
+    },
     "09092026-patch1-nightly": {
       "file": "senko-v09092026-patch1-nightly.deb",
       "sha256": "1198f881c17749a68787de344b276eac610442f74286e3834db3feb4942daf93"
