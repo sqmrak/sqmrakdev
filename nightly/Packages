@@ -1,0 +1,19 @@
+Package: com.senko.daemon
+Version: 09102026-patch8-nightly
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v09102026-patch8-nightly.deb
+Size: 19897140
+MD5sum: c87414768954dced5a7780efb55d0a3c
+SHA1: 5e5ed7ff3f9a484b4c8bcb8a23923354ba02dc4f
+SHA256: 4a75107fd9288605e8dbba0439f75c065e98126cb1259b14170e177335c74fdd
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-15
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/nightly/

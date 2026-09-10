@@ -1,0 +1,54 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#e0761b",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Senko"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "vless/amnezia client for iOS 5-15"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "09102026-patch8-nightly"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Size",
+          "text": "19.0 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "sqmrak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Networking"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Identifier",
+          "text": "com.senko.daemon"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "firmware (>= 5.0)"
+        }
+      ]
+    }
+  ]
+}

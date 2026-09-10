@@ -1,0 +1,54 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#2f6bff",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Senko"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "vless/amnezia client for iOS 5-15"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "2.0.0-stable"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Size",
+          "text": "18.5 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "sqmrak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Networking"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Identifier",
+          "text": "com.senko.daemon"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "firmware (>= 5.0)"
+        }
+      ]
+    }
+  ]
+}
