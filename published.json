@@ -1,9 +1,5 @@
 {
   "nightly": {
-    "0.1.0-prototype": {
-      "file": "pikaby-v0.1.0-prototype.deb",
-      "sha256": "60b6a4ef7d7f375fda62da0b86116f2827bbd6e5a25479d6c98a303a0c847fd8"
-    },
     "0.1.1-prototype": {
       "file": "pikabu-v0.1.1-prototype.deb",
       "sha256": "94ac3b23c2222bcc2b80d8eec9ece63735b2516e3134811018b28025bb5837f5"
@@ -47,6 +43,10 @@
     "09102026-patch4-nightly": {
       "file": "senko-v09102026-patch4-nightly.deb",
       "sha256": "d43e63d44d55cc946977c79ada8c257332eb9de8d3dd60f1884abdb2bac39715"
+    },
+    "09102026-patch5-nightly": {
+      "file": "senko-v09102026-patch5-nightly.deb",
+      "sha256": "a2509b39c9ae1490bb04a768b834070129d2d1741207b0bd16f83d9cec6f10a3"
     }
   },
   "stable": {
