@@ -1,0 +1,59 @@
+Package: com.senko.daemon
+Version: 09132026-nightly
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v09132026-nightly.deb
+Size: 20179690
+MD5sum: a05c5277552045e6705b6b377bb4bc21
+SHA1: 6759da80fb5f91d99e40c01443ea44e9d267bbd8
+SHA256: cd144a7a38d5576e82be610ae92c80bf18ef06530fd301c71c280073a3949ecb
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-15
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/nightly/
+
+Package: com.senko.daemon
+Version: 09132026-patch1-nightly
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v09132026-patch1-nightly.deb
+Size: 20275018
+MD5sum: 26cd05e85ed9da8ba12946df69da63b4
+SHA1: be1b6969943d7834b5675420b69de1f880843b5f
+SHA256: f5c61d42092f68717e572056cc38a078628ba5e28845edf993ef5ea27fa98df8
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-15
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/nightly/
+
+Package: com.senko.daemon
+Version: 09152026-nightly
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v09152026-nightly.deb
+Size: 18884310
+MD5sum: 4d0da6f8306f03dff9703c2e434ce838
+SHA1: bf2b48df7d42222bd2a5482177dcc793723520bb
+SHA256: d78f5324be0c37dd549e1fbf5f5941971a5a708f432165255868a197c1355127
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-15
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/nightly/
