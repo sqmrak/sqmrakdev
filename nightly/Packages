@@ -1,0 +1,99 @@
+Package: com.senko.daemon
+Version: 09132026-nightly
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v09132026-nightly.deb
+Size: 20179690
+MD5sum: a05c5277552045e6705b6b377bb4bc21
+SHA1: 6759da80fb5f91d99e40c01443ea44e9d267bbd8
+SHA256: cd144a7a38d5576e82be610ae92c80bf18ef06530fd301c71c280073a3949ecb
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-15
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/nightly/
+
+Package: com.senko.daemon
+Version: 09132026-patch1-nightly
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v09132026-patch1-nightly.deb
+Size: 20275018
+MD5sum: 26cd05e85ed9da8ba12946df69da63b4
+SHA1: be1b6969943d7834b5675420b69de1f880843b5f
+SHA256: f5c61d42092f68717e572056cc38a078628ba5e28845edf993ef5ea27fa98df8
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-15
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/nightly/
+
+Package: com.senko.daemon
+Version: 09152026-nightly
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v09152026-nightly.deb
+Size: 18884310
+MD5sum: 4d0da6f8306f03dff9703c2e434ce838
+SHA1: bf2b48df7d42222bd2a5482177dcc793723520bb
+SHA256: d78f5324be0c37dd549e1fbf5f5941971a5a708f432165255868a197c1355127
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-15
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/nightly/
+
+Package: com.senko.daemon
+Version: 1:2.1.0-rc1-nightly
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v1:2.1.0-rc1-nightly.deb
+Size: 20401184
+MD5sum: ab3e08248f2b8bdf0667a9e2df95d56c
+SHA1: 1651881bc117206ec15f212c54dafaee94f66abf
+SHA256: c82fbbefa8e3bf7a1fa18b552ad3e197122761d7a019cf13bffa53b389c4991f
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-15
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/nightly/
+
+Package: com.senko.daemon
+Version: 2.1.0-rc1-nightly
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v2.1.0-rc1-nightly.deb
+Size: 20399294
+MD5sum: d0bb12d945dcee60024c64d1a97c3ba0
+SHA1: d4c635c27ccf75a58221d06ba4b5f9e7db2c7fe8
+SHA256: 225b70932ff20d7efcda507ca49692cb2f1d7d765197d19b8885cdb83f897731
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-15
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/nightly/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/nightly/

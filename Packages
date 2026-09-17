@@ -1,0 +1,19 @@
+Package: com.senko.daemon
+Version: 2.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v2.0.0-stable.deb
+Size: 19403464
+MD5sum: 922f1cb12c26caa052de2dd20d07f783
+SHA1: 4deb7167e37408e0019b73260fc4311405d38967
+SHA256: 63a224b15d7f80f4bb8e2ffcd280bc386650f529d39a3386b3e5b417a3afadcd
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-15
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
