@@ -1,62 +1,34 @@
 {
   "nightly": {
-    "0.1.1-prototype": {
-      "file": "pikabu-v0.1.1-prototype.deb",
-      "sha256": "94ac3b23c2222bcc2b80d8eec9ece63735b2516e3134811018b28025bb5837f5"
+    "09132026-nightly": {
+      "file": "senko-v09132026-nightly.deb",
+      "sha256": "cd144a7a38d5576e82be610ae92c80bf18ef06530fd301c71c280073a3949ecb"
     },
-    "0.1.2-prototype": {
-      "file": "pikabu-v0.1.2-prototype.deb",
-      "sha256": "8bf7c87eb09b54c11c96082a52bd13771cec57e26479cdc52eef787094c82d79"
+    "09132026-patch1-nightly": {
+      "file": "senko-v09132026-patch1-nightly.deb",
+      "sha256": "f5c61d42092f68717e572056cc38a078628ba5e28845edf993ef5ea27fa98df8"
     },
-    "09092026-patch1-nightly": {
-      "file": "senko-v09092026-patch1-nightly.deb",
-      "sha256": "1198f881c17749a68787de344b276eac610442f74286e3834db3feb4942daf93"
+    "09152026-nightly": {
+      "file": "senko-v09152026-nightly.deb",
+      "sha256": "d78f5324be0c37dd549e1fbf5f5941971a5a708f432165255868a197c1355127"
     },
-    "09092026-patch2-nightly": {
-      "file": "senko-v09092026-patch2-nightly.deb",
-      "sha256": "41702527aa6a8c8a83592a3bbc20cb47250108cad4ab12e5950e8b7b1e0bb34a"
+    "1:2.1.0-rc1-nightly": {
+      "file": "senko-v1:2.1.0-rc1-nightly.deb",
+      "sha256": "c82fbbefa8e3bf7a1fa18b552ad3e197122761d7a019cf13bffa53b389c4991f"
     },
-    "09092026-patch3-nightly": {
-      "file": "senko-v09092026-patch3-nightly.deb",
-      "sha256": "c3e47e2c4592cdf4e04511e97ed597abd230e024ea5a2e7d4155367f673cc17a"
-    },
-    "09092026-patch4-nightly": {
-      "file": "senko-v09092026-patch4-nightly.deb",
-      "sha256": "00170b4728c1ba86b5e7afdf53e81a0e7ae7cf2479480983b467d4e242f791b4"
-    },
-    "09102026-nightly": {
-      "file": "senko-v09102026-nightly.deb",
-      "sha256": "1af2d1b41c7a1717df5f62bbe1da8c0415acacc9f3ea4f19a2dd09d86e0c1d9e"
-    },
-    "09102026-patch1-nightly": {
-      "file": "senko-v09102026-patch1-nightly.deb",
-      "sha256": "68546d8a0603a2c1a9def1a1b44dd1d88ed98eca99418281572d4df433f37aa0"
-    },
-    "09102026-patch2-nightly": {
-      "file": "senko-v09102026-patch2-nightly.deb",
-      "sha256": "e6ef1c7fa8ae42105659e53bc8dc2dfe4ece40db3373fba30782b421bd060393"
-    },
-    "09102026-patch3-nightly": {
-      "file": "senko-v09102026-patch3-nightly.deb",
-      "sha256": "fa3e99cebfafc255bd5030fb122636743d2162173ed372805a711040fae37b62"
-    },
-    "09102026-patch4-nightly": {
-      "file": "senko-v09102026-patch4-nightly.deb",
-      "sha256": "d43e63d44d55cc946977c79ada8c257332eb9de8d3dd60f1884abdb2bac39715"
-    },
-    "09102026-patch5-nightly": {
-      "file": "senko-v09102026-patch5-nightly.deb",
-      "sha256": "a2509b39c9ae1490bb04a768b834070129d2d1741207b0bd16f83d9cec6f10a3"
-    },
-    "09102026-patch6-nightly": {
-      "file": "senko-v09102026-patch6-nightly.deb",
-      "sha256": "2697fc9795ab6cab76c763a39b7d87a6332301998f795d181b7bd1cc6e324a09"
+    "2.1.0-rc1-nightly": {
+      "file": "senko-v2.1.0-rc1-nightly.deb",
+      "sha256": "225b70932ff20d7efcda507ca49692cb2f1d7d765197d19b8885cdb83f897731"
     }
   },
   "stable": {
     "2.0.0-stable": {
       "file": "senko-v2.0.0-stable.deb",
       "sha256": "63a224b15d7f80f4bb8e2ffcd280bc386650f529d39a3386b3e5b417a3afadcd"
+    },
+    "3.0.0-stable": {
+      "file": "senko-v3.0.0-stable.deb",
+      "sha256": "859be66a46609beab027c8a945f46e3ab1746728ef0196e172d82d39901e0d2e"
     }
   }
 }
