@@ -21,7 +21,7 @@ the nightly.
 
 ## Packages
 
-- **Senko** — full-device VLESS and AmneziaWG client for iOS 5-15, armv7 and
+- **Senko** — full-device VLESS and AmneziaWG client for iOS 5-16, armv7 and
   arm64. <https://github.com/sqmrak/senko>
 
 ## Layout

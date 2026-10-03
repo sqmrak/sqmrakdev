@@ -33,6 +33,10 @@
     "3.0.1-stable": {
       "file": "senko-v3.0.1-stable.deb",
       "sha256": "f4eb726d85c3f74b5facce2f357c3d0d918a5716d8b1db5a8c1f3252f87170cf"
+    },
+    "3.0.2-stable": {
+      "file": "senko-v3.0.2-stable.deb",
+      "sha256": "acf2bd3bb9a1d39a47c756ab61491eaf28e3383902669a837363e6f1bba2b6e8"
     }
   }
 }
