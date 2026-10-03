@@ -1,0 +1,103 @@
+Package: com.senko.daemon
+Version: 2.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v2.0.0-stable.deb
+Size: 19403464
+MD5sum: 922f1cb12c26caa052de2dd20d07f783
+SHA1: 4deb7167e37408e0019b73260fc4311405d38967
+SHA256: 63a224b15d7f80f4bb8e2ffcd280bc386650f529d39a3386b3e5b417a3afadcd
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-16
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 3.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v3.0.0-stable.deb
+Size: 20270410
+MD5sum: 8b301d277829e52c2d35a27eb4446acb
+SHA1: 219793b72a51562eb628c28b2c7a3fbe625f2902
+SHA256: 859be66a46609beab027c8a945f46e3ab1746728ef0196e172d82d39901e0d2e
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-16
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 3.0.1-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v3.0.1-stable.deb
+Size: 20271432
+MD5sum: 2dce35e22313d1332eb7efcd72ca4884
+SHA1: 309e54b3babe4d339e80d5b55d55b1431d7215c7
+SHA256: f4eb726d85c3f74b5facce2f357c3d0d918a5716d8b1db5a8c1f3252f87170cf
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-16
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 3.0.2-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/senko-v3.0.2-stable.deb
+Size: 20293858
+MD5sum: 768d8a1eff731ed6f10b5b01830343eb
+SHA1: 9c038a2df51dc756517f37b94c31baf212ec9d9d
+SHA256: acf2bd3bb9a1d39a47c756ab61491eaf28e3383902669a837363e6f1bba2b6e8
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 5-16
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.rewind
+Version: 1.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Conflicts: com.sqmrak.tunetube
+Replaces: com.sqmrak.tunetube
+Provides: com.sqmrak.tunetube
+Filename: debs/rewind_1.0.0-stable.deb
+Size: 2115504
+MD5sum: 60b72233f7185be79d5f9b2e5ddd0873
+SHA1: 72fa4b00249734163dc7523f00522f2c4a9f65a2
+SHA256: c4588b7ca56bc72c07e066c6bbdfdee2d5889cdae688a820820771cccb588851
+Section: Multimedia
+Priority: optional
+Description: youtube music client for iOS 5-16
+Author: sqmrak
+License: GPL-2.0-only
+Name: Rewind
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/

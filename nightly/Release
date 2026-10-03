@@ -1,0 +1,22 @@
+Origin: sqmrakdev nightly
+Label: sqmrakdev nightly
+Suite: nightly
+Version: 1.0
+Codename: nightly
+Architectures: iphoneos-arm iphoneos-arm64 all
+Components: main
+Description: test builds. they break. report what you see
+Maintainer: sqmrak
+Date: Sat, 03 Oct 2026 19:54:19 UTC
+MD5Sum:
+ 88582eda2a37a4cc9222877775116365 3871 Packages
+ 8433ce8b7a9d861f5c374642736f4243 875 Packages.gz
+ 8c9a73b8873f23c94d951d37e0e0ea48 1063 Packages.bz2
+ 877667f1777e1455a857defea4f1d9e2 912 Packages.xz
+ fe86c4c5a75aceb96f04840bf68c80e0 845 Packages.zst
+SHA256:
+ b2b7fa0b06d446056cc3b0716c92fdb0e4dd2952714fecbc23e8d8163e2f1572 3871 Packages
+ 5e012a103ca3fe40d97ca150153d02f90d631d7b29659baa6dd44136eb42b59c 875 Packages.gz
+ 89c9ead2aef989d8005c5f543fb6626877c2f288c26e22cafa88ed7b3d79c2ba 1063 Packages.bz2
+ de30309ac4c966b3681234af1f60c069e90bfae3d6068e88d63a0cec1379aad3 912 Packages.xz
+ a36dacd9d563900f6a4a65d7953b9d0d1fde9f0e8c99fba213017532e7d6e416 845 Packages.zst
