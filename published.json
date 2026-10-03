@@ -22,6 +22,10 @@
     }
   },
   "stable": {
+    "1.0.0-stable": {
+      "file": "rewind_1.0.0-stable.deb",
+      "sha256": "a37e14354fb8c4b95f5501fac42526ac61ef9e9f4dd762f4a882163c082f3788"
+    },
     "2.0.0-stable": {
       "file": "senko-v2.0.0-stable.deb",
       "sha256": "63a224b15d7f80f4bb8e2ffcd280bc386650f529d39a3386b3e5b417a3afadcd"

@@ -24,6 +24,8 @@ the nightly.
 - **Senko** — full-device VLESS and AmneziaWG client for iOS 5-16, armv7 and
   arm64. <https://github.com/sqmrak/senko>
 
+- **Rewind** — youtube music client for iOS 5-16, armv7 and arm64. formerly tunetube.
+
 ## Layout
 
 Each channel is a complete flat repository with its own `Packages`, `Release`
