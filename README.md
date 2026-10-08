@@ -2,7 +2,7 @@
 
 ## add
 
-source: `https://sqmrak.github.io/sqmrakdev/`
+source: <https://sqmrak.github.io/sqmrakdev/>
 
 cydia, sileo and zebra all read it. the page has buttons for each of them.
 
