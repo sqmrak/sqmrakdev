@@ -3,7 +3,7 @@
   "stable": {
     "com.byebyedpi.daemon/1.0.0-stable": {
       "file": "byebyedpi-v1.0.0-stable.deb",
-      "sha256": "a04b057bc7407ccb85043047a4b3a9d4168d49a96c35e7f7d9ae636e745ec3ba"
+      "sha256": "767b7686d4445dc328ddbb9de0f3b909ba88f2a83ff46b10ed484a74b28d21e4"
     },
     "com.senko.daemon/3.1.0-stable": {
       "file": "senko-v3.1.0-stable.deb",
