@@ -1,0 +1,17 @@
+{
+  "nightly": {},
+  "stable": {
+    "com.byebyedpi.daemon/1.0.0-stable": {
+      "file": "byebyedpi-v1.0.0-stable.deb",
+      "sha256": "a04b057bc7407ccb85043047a4b3a9d4168d49a96c35e7f7d9ae636e745ec3ba"
+    },
+    "com.senko.daemon/3.1.0-stable": {
+      "file": "senko-v3.1.0-stable.deb",
+      "sha256": "a10b28045d1e68edfd4b3ceba2df54462bcba41dd6c58ab13480814b2c7ca6af"
+    },
+    "com.sqmrak.rewind/1.0.0-stable": {
+      "file": "rewind_1.0.0-stable.deb",
+      "sha256": "e8d0009137aff93ede6aa19ea15a50396863f60bf021e722c2098e8071a46e99"
+    }
+  }
+}
