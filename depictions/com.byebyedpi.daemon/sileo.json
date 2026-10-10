@@ -1,0 +1,54 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#2f6bff",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "ByeByeDPI"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "byebyedpi client for iOS 5-16"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.1.0-stable"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Size",
+          "text": "7.7 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "sqmrak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Networking"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Identifier",
+          "text": "com.byebyedpi.daemon"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "firmware (>= 5.0)"
+        }
+      ]
+    }
+  ]
+}
