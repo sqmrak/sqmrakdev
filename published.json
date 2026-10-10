@@ -5,6 +5,10 @@
       "file": "byebyedpi-v1.0.0-stable.deb",
       "sha256": "767b7686d4445dc328ddbb9de0f3b909ba88f2a83ff46b10ed484a74b28d21e4"
     },
+    "com.byebyedpi.daemon/1.1.0-stable": {
+      "file": "byebyedpi-v1.1.0-stable.deb",
+      "sha256": "11ec8dc2212d36542da4e0aabd797c41aba951e79e7eee5dd68c7b1601b083ba"
+    },
     "com.senko.daemon/3.1.0-stable": {
       "file": "senko-v3.1.0-stable.deb",
       "sha256": "a10b28045d1e68edfd4b3ceba2df54462bcba41dd6c58ab13480814b2c7ca6af"
