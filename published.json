@@ -11,7 +11,7 @@
     },
     "com.senko.daemon/4.0.0-stable": {
       "file": "senko-v4.0.0-stable.deb",
-      "sha256": "0655fcfdca409d641e4e86d5bc805c9efc987ff0e2ea0f9c996bb9afe8197aab"
+      "sha256": "c42491dc2db60dc7ae40eec4c2756f881014f12523396b38d3473d4c7c2a0f28"
     },
     "com.sqmrak.rewind/1.0.0-stable": {
       "file": "rewind_1.0.0-stable.deb",
