@@ -11,7 +11,7 @@
     },
     "com.byebyedpi.daemon/1.2.0-stable": {
       "file": "byebyedpi-v1.2.0-stable.deb",
-      "sha256": "f7ea1720889204bf2e37d4544b5845c64c83f27b48ff80b207b78cf618f59b6f"
+      "sha256": "64ff11fb4f7bf19cae3b0ce637b552306040d54a34a755638e8a34424c2ae432"
     },
     "com.senko.daemon/4.0.0-stable": {
       "file": "senko-v4.0.0-stable.deb",
