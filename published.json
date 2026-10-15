@@ -9,6 +9,10 @@
       "file": "byebyedpi-v1.1.0-stable.deb",
       "sha256": "11ec8dc2212d36542da4e0aabd797c41aba951e79e7eee5dd68c7b1601b083ba"
     },
+    "com.byebyedpi.daemon/1.2.0-stable": {
+      "file": "byebyedpi-v1.2.0-stable.deb",
+      "sha256": "f7ea1720889204bf2e37d4544b5845c64c83f27b48ff80b207b78cf618f59b6f"
+    },
     "com.senko.daemon/4.0.0-stable": {
       "file": "senko-v4.0.0-stable.deb",
       "sha256": "2c6431eff592efa474c7d3a81eb2431983bf3e112a03c4351fc7a9e6e7fa78c5"
