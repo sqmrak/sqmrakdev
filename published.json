@@ -33,6 +33,10 @@
       "file": "shiro-1.0.0-stable.deb",
       "sha256": "cd34ee4a10e46130c291b6dd5297799e455f51428e922855f9483c11f3ac06fc"
     },
+    "com.shiro.daemon/1.1.0-stable": {
+      "file": "shiro-1.1.0-stable.deb",
+      "sha256": "12a2cd1601910064c374af2b94804ab059a2d62ce0c167eca6f087f154d61332"
+    },
     "com.sqmrak.rewind/1.0.0-stable": {
       "file": "rewind_1.0.0-stable.deb",
       "sha256": "e8d0009137aff93ede6aa19ea15a50396863f60bf021e722c2098e8071a46e99"
