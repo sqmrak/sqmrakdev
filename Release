@@ -1,0 +1,22 @@
+Origin: sqmrakdev
+Label: sqmrakdev
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm iphoneos-arm64 all
+Components: main
+Description: just another shitty repo :D
+Maintainer: sqmrak
+Date: Thu, 22 Oct 2026 10:48:59 UTC
+MD5Sum:
+ 1de78bf849b513f2c8d52de6035714f1 7469 Packages
+ a3be65fbc3d811bf9c6451f3b3eec342 1594 Packages.gz
+ e9547c0089083370e39d0a37cff2ffff 1732 Packages.bz2
+ 1d7c7f11d0d5ba435c52d25f45477293 1552 Packages.xz
+ 0d676854b38d5380e465ba55f079f093 1486 Packages.zst
+SHA256:
+ 01c9a3c866de0607e45209faecd004b24579b47f199db6fbc370b0d762234636 7469 Packages
+ e385045bc1500c1a23945d3ca144fcbf885b0f909a095095b3146b9afd7c927b 1594 Packages.gz
+ 430871741ee7c0013fd498a05337be00e37cca4545676ff4cfc37539fac46506 1732 Packages.bz2
+ 69d55bcbdd13ee7b4bd843404d9864b603366a7251e21383cdbf310aa9a79bba 1552 Packages.xz
+ ab9041c18ccaf193db6a93ddd73ecd39f475b1b89d5ef7ea8bad6fd3fb55c582 1486 Packages.zst
