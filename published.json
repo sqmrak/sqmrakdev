@@ -25,6 +25,10 @@
       "file": "senko-v4.1.0-stable.deb",
       "sha256": "77d72aebaf6e7653ba63e54de75f506fe40c87fa41cf82e6e3fa22c02d4b6f6d"
     },
+    "com.senko.daemon/4.1.1-stable": {
+      "file": "senko-v4.1.1-stable.deb",
+      "sha256": "27c374fe4a79002d7b263b5537bbb4d53b700e856a8361ce7926076335d620fa"
+    },
     "com.shiro.daemon/1.0.0-stable": {
       "file": "shiro-1.0.0-stable.deb",
       "sha256": "cd34ee4a10e46130c291b6dd5297799e455f51428e922855f9483c11f3ac06fc"
