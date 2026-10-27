@@ -37,6 +37,10 @@
       "file": "shiro-1.1.0-stable.deb",
       "sha256": "12a2cd1601910064c374af2b94804ab059a2d62ce0c167eca6f087f154d61332"
     },
+    "com.sqmrak.exteria/1.0.0-stable": {
+      "file": "exteria_1.0.0-stable.deb",
+      "sha256": "679fa5d7c25c565e0a880f6b6c7b4b2736d7a4fbf70be648f9a216b1c164de39"
+    },
     "com.sqmrak.rewind/1.0.0-stable": {
       "file": "rewind_1.0.0-stable.deb",
       "sha256": "e8d0009137aff93ede6aa19ea15a50396863f60bf021e722c2098e8071a46e99"
