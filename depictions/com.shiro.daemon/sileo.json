@@ -1,0 +1,54 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#2f6bff",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Shiro"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "cloudflare warp client for iOS 5+"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.1.0-stable"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Size",
+          "text": "6.4 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "sqmrak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Networking"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Identifier",
+          "text": "com.shiro.daemon"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "firmware (>= 5.0)"
+        }
+      ]
+    }
+  ]
+}

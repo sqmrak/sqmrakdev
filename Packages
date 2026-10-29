@@ -1,0 +1,313 @@
+Package: com.byebyedpi.daemon
+Version: 1.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/byebyedpi-v1.0.0-stable.deb
+Size: 3257154
+MD5sum: 93647cb1922415a6431ab040b323c4a1
+SHA1: 1af8665fd8f03ab6a86824aa2491fc86468b3e36
+SHA256: 767b7686d4445dc328ddbb9de0f3b909ba88f2a83ff46b10ed484a74b28d21e4
+Section: Networking
+Priority: optional
+Description: byebyedpi client for iOS 5-16
+Author: sqmrak
+Name: ByeByeDPI
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.byebyedpi.daemon
+Version: 1.1.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/byebyedpi-v1.1.0-stable.deb
+Size: 8114142
+MD5sum: 3a8505290d90a4b43463fe221dc2c4a2
+SHA1: ff32ebe13d09929b433ca81f4b3f02197454771c
+SHA256: 11ec8dc2212d36542da4e0aabd797c41aba951e79e7eee5dd68c7b1601b083ba
+Section: Networking
+Priority: optional
+Description: byebyedpi client for iOS 5-16
+Author: sqmrak
+Name: ByeByeDPI
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.byebyedpi.daemon
+Version: 1.2.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/byebyedpi-v1.2.0-stable.deb
+Size: 6886538
+MD5sum: 04663756f927a04bdbe7e1dc8c413af3
+SHA1: c0842a9dfd1aee59feb247fc257988c7ebcdc5c7
+SHA256: 64ff11fb4f7bf19cae3b0ce637b552306040d54a34a755638e8a34424c2ae432
+Section: Networking
+Priority: optional
+Description: byebyedpi client for iOS 5-16
+Author: sqmrak
+Name: ByeByeDPI
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 4.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 4.3)
+Filename: debs/senko-v4.0.0-stable.deb
+Size: 21766904
+MD5sum: 9289f94d7b88671f91c51147aa89e39b
+SHA1: 9c9fa59e3716742d7f9ee9c1daa0f755f50637ce
+SHA256: 2c6431eff592efa474c7d3a81eb2431983bf3e112a03c4351fc7a9e6e7fa78c5
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 4.3+
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 4.0.1-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 4.3)
+Filename: debs/senko-v4.0.1-stable.deb
+Size: 21886088
+MD5sum: ad9145f2f372633976ac7106cd0b4469
+SHA1: dfbb28617b0226bab8e8eebc1c57e1099cd0b0c6
+SHA256: 2c6831fa5627d104daf3403cdfa2b0f42ed51549340226105d32a8bb90c1176a
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 4.3+
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 4.1.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 4.3)
+Filename: debs/senko-v4.1.0-stable.deb
+Size: 22063174
+MD5sum: fa46e67ca9c23c5d561ab9f2acee73c7
+SHA1: 6880165c4fce0c1e996e229347c76261bc721c16
+SHA256: 77d72aebaf6e7653ba63e54de75f506fe40c87fa41cf82e6e3fa22c02d4b6f6d
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 4.3+
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 4.1.1-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 4.3)
+Filename: debs/senko-v4.1.1-stable.deb
+Size: 21901478
+MD5sum: c86fa2dbb87f6d88f402502b2da4da06
+SHA1: f24ae5013e6b2147d75c97a971a475d8d2b4e22d
+SHA256: 27c374fe4a79002d7b263b5537bbb4d53b700e856a8361ce7926076335d620fa
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 4.3+
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.shiro.daemon
+Version: 1.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/shiro-1.0.0-stable.deb
+Size: 6670550
+MD5sum: f20c1dffee825931cfa89a79d5908166
+SHA1: cb5588fd553a811bf1ad3c2be215ebdc821963d3
+SHA256: cd34ee4a10e46130c291b6dd5297799e455f51428e922855f9483c11f3ac06fc
+Section: Networking
+Priority: optional
+Description: cloudflare warp client for iOS 5+
+Author: sqmrak
+Name: Shiro
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.shiro.daemon
+Version: 1.1.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/shiro-1.1.0-stable.deb
+Size: 6677006
+MD5sum: bf39b7b607df2a3235d095cd613889d8
+SHA1: e1d37d5d77207a297e1b3dab9ec1380010554fda
+SHA256: 12a2cd1601910064c374af2b94804ab059a2d62ce0c167eca6f087f154d61332
+Section: Networking
+Priority: optional
+Description: cloudflare warp client for iOS 5+
+Author: sqmrak
+Name: Shiro
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.exteria
+Version: 1.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Installed-Size: 63836
+Depends: firmware (>= 5.0)
+Filename: debs/exteria_1.0.0-stable.deb
+Size: 33040840
+MD5sum: 60ca45b85955809b78bc3a1dd2729bfb
+SHA1: 775c543eea56e9070d01919948efc90ccd3fc123
+SHA256: 679fa5d7c25c565e0a880f6b6c7b4b2736d7a4fbf70be648f9a216b1c164de39
+Section: Messaging
+Priority: optional
+Description: native telegram client for iOS 5+
+Author: sqmrak
+License: GPL-3.0-only
+Name: Exteria
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.exteria
+Version: 1.1.0-stable
+Architecture: all
+Maintainer: sqmrak
+Installed-Size: 63936
+Depends: firmware (>= 5.0)
+Filename: debs/exteria_1.1.0-stable.deb
+Size: 33083302
+MD5sum: 7c84075a5c95d122c3195b1279bcfeb1
+SHA1: 3a8dc4298f12d9dca17eea75e76e8e3e457cb9cf
+SHA256: 0bb24d398f77f51882c96c6ecdf4c4b2a662bcb3a59bf1dd01556a89e084deee
+Section: Messaging
+Priority: optional
+Description: native telegram client for iOS 5+
+Author: sqmrak
+License: GPL-3.0-only
+Name: Exteria
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.exteria
+Version: 1.2.0-stable
+Architecture: all
+Maintainer: sqmrak
+Installed-Size: 66004
+Depends: firmware (>= 5.0)
+Filename: debs/exteria_1.2.0-stable.deb
+Size: 34622792
+MD5sum: 82621a66d2d724a0c409df9cc04da32d
+SHA1: 2ac28fe0d84259f5771e4098fb45b2b32b7c3998
+SHA256: d8ad8544e7e79bf30502a5e1f18032a9634ed1c1e8d30b6861721e56a9cba567
+Section: Messaging
+Priority: optional
+Description: native telegram client for iOS 5+
+Author: sqmrak
+License: GPL-3.0-only
+Name: Exteria
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.exteria
+Version: 1.3.0-stable
+Architecture: all
+Maintainer: sqmrak
+Installed-Size: 67208
+Depends: firmware (>= 5.0)
+Filename: debs/exteria_1.3.0-stable.deb
+Size: 35252400
+MD5sum: 664d19d47c8a1fe7558d9be97e6e2cb4
+SHA1: 2c157e722ba80de9dd0446c68cceafb3fdb1b863
+SHA256: 034ac6c0f4c6158e6939721e69980fb39b60ded229b04226c60c4214ed0663ce
+Section: Messaging
+Priority: optional
+Description: native telegram client for iOS 5+
+Author: sqmrak
+License: GPL-3.0-only
+Name: Exteria
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.exteria
+Version: 1.4.0-stable
+Architecture: all
+Maintainer: sqmrak
+Installed-Size: 67676
+Depends: firmware (>= 5.0)
+Filename: debs/exteria_1.4.0-stable.deb
+Size: 35669956
+MD5sum: 44fafc0b45ea47361fa598c085b8fca1
+SHA1: 5b59f11d6b69f5e373fedebca56a34a06028a1ea
+SHA256: 0ae88072098a133b5d9e7d138a8ca5bde539bea31a041bb5755c9145ca6f40a3
+Section: Messaging
+Priority: optional
+Description: native telegram client for iOS 5+
+Author: sqmrak
+License: GPL-3.0-only
+Name: Exteria
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.rewind
+Version: 1.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Conflicts: com.sqmrak.tunetube
+Replaces: com.sqmrak.tunetube
+Provides: com.sqmrak.tunetube
+Filename: debs/rewind_1.0.0-stable.deb
+Size: 2092232
+MD5sum: aa5311a8b7bc673b670acb03a3368a3a
+SHA1: 39bd5b1e9d10864bb978e3775cd9ba3c2c70fe01
+SHA256: e8d0009137aff93ede6aa19ea15a50396863f60bf021e722c2098e8071a46e99
+Section: Multimedia
+Priority: optional
+Description: youtube music client for iOS 5-16
+Author: sqmrak
+License: GPL-2.0-only
+Name: Rewind
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
