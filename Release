@@ -7,16 +7,16 @@ Architectures: iphoneos-arm iphoneos-arm64 all
 Components: main
 Description: just another shitty repo :D
 Maintainer: sqmrak
-Date: Thu, 29 Oct 2026 18:46:23 UTC
+Date: Thu, 29 Oct 2026 20:26:17 UTC
 MD5Sum:
- c3ed72fadb9c6bafcf3c774a8460689b 12119 Packages
- 9bd4a9047d10270ae40f19689e0156d2 2314 Packages.gz
- d174b6b589e61c66d4f739e8f2c90b9e 2384 Packages.bz2
- 77d431352ee4f317c4299be2c2b570f3 2172 Packages.xz
- c6b6f978113852dec5cdca81cf83b68e 2101 Packages.zst
+ be486dc9e7fc3fab20ac95cca3b7da69 12903 Packages
+ c368eaa36608828a78d31e9a1090fb14 2425 Packages.gz
+ e7e066e4297cceb6449ba7e5617225b7 2496 Packages.bz2
+ a805cf393fdffd504e1ab21afa04e9aa 2264 Packages.xz
+ fcc9470de7996601c20b06d1e3dd4704 2188 Packages.zst
 SHA256:
- e6f750fe563d2f39f2cbec5bedae571e4aa170447e9b2f12c215d177669328cd 12119 Packages
- d6665aa2b79cb4f1cf0df467c01d8710f4d980d9f7be6f9a157cad629aea32f9 2314 Packages.gz
- 17d3da50b1ef15e8b57f6a1b5edf772add11629297cbb6079a7c9793485aeb87 2384 Packages.bz2
- ab0c6148fc89ce928e3010fd57940548652b935eb0538f53faabc9a8588a519f 2172 Packages.xz
- d607cce8d36a5218b89c805675e1b0a94c92c3db6eaa4906304b0868cf05297b 2101 Packages.zst
+ d158ba527354920ea3583e8b245479ebfee4ef6c7881ae1d0fa6b6b4186632a0 12903 Packages
+ d512a8b851eae1992acb2e44f6c7b51d2f146caaa83a169d01e0d60edcbb8ab3 2425 Packages.gz
+ d310badd3b7e1889e5ba9ea84f4feb9ca389c9190adc3342586aad9a3c8c6a43 2496 Packages.bz2
+ ad817ce289643bd2b63952135bdccc1031193f037e881fc6c4de151ac7fb5a7a 2264 Packages.xz
+ 5e4a93f33d5a21aa21cdcc6b42b57fc94dd65cdb44c7cef47f53b1e8aec20051 2188 Packages.zst
