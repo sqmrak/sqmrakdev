@@ -138,6 +138,26 @@ SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/s
 Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
 Homepage: https://sqmrak.github.io/sqmrakdev/
 
+Package: com.senko.daemon
+Version: 4.2.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 4.3)
+Filename: debs/senko-v4.2.0-stable.deb
+Size: 22641148
+MD5sum: f435f8ebf4e59e21bab4b94f18422093
+SHA1: 8ae33466db9432b3196296fd9beec3fe7ed87a84
+SHA256: 13605f325e6ba7e0733fa957f32c010a66710de71195c1ed07064aa92c8d672a
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 4.3+
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
 Package: com.shiro.daemon
 Version: 1.0.0-stable
 Architecture: all
