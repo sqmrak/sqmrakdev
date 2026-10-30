@@ -198,6 +198,26 @@ SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/s
 Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/icon.png
 Homepage: https://sqmrak.github.io/sqmrakdev/
 
+Package: com.shiro.daemon
+Version: 1.2.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/shiro-v1.2.0-stable.deb
+Size: 7704554
+MD5sum: ab245ab9e528494c51006cc475972b0a
+SHA1: 75a935b840144e3cb1f5aafbf82bef035d9a4d18
+SHA256: 47a7e466623633e9f2242451da98a04cc64232677cac5b4b759794e255b195f5
+Section: Networking
+Priority: optional
+Description: cloudflare warp client for iOS 5+
+Author: sqmrak
+Name: Shiro
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
 Package: com.sqmrak.exteria
 Version: 1.0.0-stable
 Architecture: all
