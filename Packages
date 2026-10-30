@@ -330,6 +330,28 @@ SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria
 Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/icon.png
 Homepage: https://sqmrak.github.io/sqmrakdev/
 
+Package: com.sqmrak.exteria
+Version: 1.6.0-stable
+Architecture: all
+Maintainer: sqmrak
+Installed-Size: 68132
+Depends: firmware (>= 5.0)
+Filename: debs/exteria_1.6.0-stable.deb
+Size: 35949550
+MD5sum: 7b8e26bc081e885934fda8d9ab4011a0
+SHA1: 69850ee108a22ba37987550f951fba71f29edfd1
+SHA256: 72229cf6da8c0b793c9e5f764594c9ec472387cfaae0ac3ec172be2e862041bb
+Section: Messaging
+Priority: optional
+Description: native telegram client for iOS 5+
+Author: sqmrak
+License: GPL-3.0-only
+Name: Exteria
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
 Package: com.sqmrak.rewind
 Version: 1.0.0-stable
 Architecture: all
