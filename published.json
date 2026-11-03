@@ -45,33 +45,9 @@
       "file": "shiro-v1.2.0-stable.deb",
       "sha256": "47a7e466623633e9f2242451da98a04cc64232677cac5b4b759794e255b195f5"
     },
-    "com.sqmrak.exteria/1.0.0-stable": {
-      "file": "exteria_1.0.0-stable.deb",
-      "sha256": "679fa5d7c25c565e0a880f6b6c7b4b2736d7a4fbf70be648f9a216b1c164de39"
-    },
-    "com.sqmrak.exteria/1.1.0-stable": {
-      "file": "exteria_1.1.0-stable.deb",
-      "sha256": "0bb24d398f77f51882c96c6ecdf4c4b2a662bcb3a59bf1dd01556a89e084deee"
-    },
-    "com.sqmrak.exteria/1.2.0-stable": {
-      "file": "exteria_1.2.0-stable.deb",
-      "sha256": "d8ad8544e7e79bf30502a5e1f18032a9634ed1c1e8d30b6861721e56a9cba567"
-    },
-    "com.sqmrak.exteria/1.3.0-stable": {
-      "file": "exteria_1.3.0-stable.deb",
-      "sha256": "034ac6c0f4c6158e6939721e69980fb39b60ded229b04226c60c4214ed0663ce"
-    },
-    "com.sqmrak.exteria/1.4.0-stable": {
-      "file": "exteria_1.4.0-stable.deb",
-      "sha256": "0ae88072098a133b5d9e7d138a8ca5bde539bea31a041bb5755c9145ca6f40a3"
-    },
-    "com.sqmrak.exteria/1.5.0-stable": {
-      "file": "exteria_1.5.0-stable.deb",
-      "sha256": "ccdad7148f7d8386479b799bc88af600c903082112623f28cb9d81423d64f49f"
-    },
-    "com.sqmrak.exteria/1.6.0-stable": {
-      "file": "exteria_1.6.0-stable.deb",
-      "sha256": "72229cf6da8c0b793c9e5f764594c9ec472387cfaae0ac3ec172be2e862041bb"
+    "com.sqmrak.exteria/2.0.0-stable": {
+      "file": "exteria_2.0.0-stable.deb",
+      "sha256": "210b161e6b234e12f47384aebc930a2eb15c9b52e81917b9448d4ed06bb2c726"
     },
     "com.sqmrak.rewind/1.0.0-stable": {
       "file": "rewind_1.0.0-stable.deb",
