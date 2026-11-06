@@ -13,10 +13,6 @@
       "file": "byebyedpi-v1.2.0-stable.deb",
       "sha256": "64ff11fb4f7bf19cae3b0ce637b552306040d54a34a755638e8a34424c2ae432"
     },
-    "com.pageflip.shapka/1.0.0-stable": {
-      "file": "shapka_1.0.0-stable.deb",
-      "sha256": "81e1703070d28e892182db29343ffd1bd34acb741fcb269348ec99b46163e800"
-    },
     "com.senko.daemon/4.0.0-stable": {
       "file": "senko-v4.0.0-stable.deb",
       "sha256": "2c6431eff592efa474c7d3a81eb2431983bf3e112a03c4351fc7a9e6e7fa78c5"
@@ -53,9 +49,17 @@
       "file": "exteria_2.1.0-stable.deb",
       "sha256": "4d30aece621c1355615d5a794fd5a2c2a76b5faceb4630e50d1a36768f44ad24"
     },
+    "com.sqmrak.exteria/2.2.0-stable": {
+      "file": "exteria_2.2.0-stable.deb",
+      "sha256": "505831026a63738fe4ab9c3b591fdb2469ba3b9097c90b05ac0f4866bfe607a3"
+    },
     "com.sqmrak.rewind/1.1.0-stable": {
       "file": "rewind_1.1.0-stable.deb",
       "sha256": "679157bfbba8fbeee04818fbff525895739164684ad79051b65bb43dc3e46f0b"
+    },
+    "com.sqmrak.shapka/1.0.0-stable": {
+      "file": "shapka_1.0.0-stable.deb",
+      "sha256": "eeaed03852381592c2aa04c3c19d3a3095a7ac4afc42ccbdd542ab0759a60df9"
     }
   }
 }
