@@ -13,6 +13,10 @@
       "file": "byebyedpi-v1.2.0-stable.deb",
       "sha256": "64ff11fb4f7bf19cae3b0ce637b552306040d54a34a755638e8a34424c2ae432"
     },
+    "com.pageflip.shapka/1.0.0-stable": {
+      "file": "shapka_1.0.0-stable.deb",
+      "sha256": "81e1703070d28e892182db29343ffd1bd34acb741fcb269348ec99b46163e800"
+    },
     "com.senko.daemon/4.0.0-stable": {
       "file": "senko-v4.0.0-stable.deb",
       "sha256": "2c6431eff592efa474c7d3a81eb2431983bf3e112a03c4351fc7a9e6e7fa78c5"
