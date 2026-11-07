@@ -1,61 +1,21 @@
 {
   "nightly": {},
   "stable": {
-    "com.byebyedpi.daemon/1.0.0-stable": {
-      "file": "byebyedpi-v1.0.0-stable.deb",
-      "sha256": "767b7686d4445dc328ddbb9de0f3b909ba88f2a83ff46b10ed484a74b28d21e4"
-    },
-    "com.byebyedpi.daemon/1.1.0-stable": {
-      "file": "byebyedpi-v1.1.0-stable.deb",
-      "sha256": "11ec8dc2212d36542da4e0aabd797c41aba951e79e7eee5dd68c7b1601b083ba"
-    },
     "com.byebyedpi.daemon/1.2.0-stable": {
       "file": "byebyedpi-v1.2.0-stable.deb",
       "sha256": "64ff11fb4f7bf19cae3b0ce637b552306040d54a34a755638e8a34424c2ae432"
-    },
-    "com.senko.daemon/4.0.0-stable": {
-      "file": "senko-v4.0.0-stable.deb",
-      "sha256": "2c6431eff592efa474c7d3a81eb2431983bf3e112a03c4351fc7a9e6e7fa78c5"
-    },
-    "com.senko.daemon/4.0.1-stable": {
-      "file": "senko-v4.0.1-stable.deb",
-      "sha256": "2c6831fa5627d104daf3403cdfa2b0f42ed51549340226105d32a8bb90c1176a"
-    },
-    "com.senko.daemon/4.1.0-stable": {
-      "file": "senko-v4.1.0-stable.deb",
-      "sha256": "77d72aebaf6e7653ba63e54de75f506fe40c87fa41cf82e6e3fa22c02d4b6f6d"
-    },
-    "com.senko.daemon/4.1.1-stable": {
-      "file": "senko-v4.1.1-stable.deb",
-      "sha256": "27c374fe4a79002d7b263b5537bbb4d53b700e856a8361ce7926076335d620fa"
     },
     "com.senko.daemon/4.2.0-stable": {
       "file": "senko-v4.2.0-stable.deb",
       "sha256": "13605f325e6ba7e0733fa957f32c010a66710de71195c1ed07064aa92c8d672a"
     },
-    "com.shiro.daemon/1.0.0-stable": {
-      "file": "shiro-1.0.0-stable.deb",
-      "sha256": "cd34ee4a10e46130c291b6dd5297799e455f51428e922855f9483c11f3ac06fc"
-    },
-    "com.shiro.daemon/1.1.0-stable": {
-      "file": "shiro-1.1.0-stable.deb",
-      "sha256": "12a2cd1601910064c374af2b94804ab059a2d62ce0c167eca6f087f154d61332"
-    },
     "com.shiro.daemon/1.2.0-stable": {
       "file": "shiro-v1.2.0-stable.deb",
       "sha256": "47a7e466623633e9f2242451da98a04cc64232677cac5b4b759794e255b195f5"
     },
-    "com.sqmrak.exteria/2.1.0-stable": {
-      "file": "exteria_2.1.0-stable.deb",
-      "sha256": "4d30aece621c1355615d5a794fd5a2c2a76b5faceb4630e50d1a36768f44ad24"
-    },
-    "com.sqmrak.exteria/2.2.0-stable": {
-      "file": "exteria_2.2.0-stable.deb",
-      "sha256": "505831026a63738fe4ab9c3b591fdb2469ba3b9097c90b05ac0f4866bfe607a3"
-    },
-    "com.sqmrak.exteria/2.3.0-stable": {
-      "file": "exteria_2.3.0-stable.deb",
-      "sha256": "7a37ecd1a16d7a678534a259dfea8cdcb1ac9597c6479d52ed6bd565fdbb6420"
+    "com.sqmrak.exteria/2.4.0-stable": {
+      "file": "exteria_2.4.0-stable.deb",
+      "sha256": "97bf39c1749c1a0e8bed2e257d3d77e96392dadda6b74146b4fc3f1a71def50a"
     },
     "com.sqmrak.rewind/1.3.0-stable": {
       "file": "rewind_1.3.0-stable.deb",
