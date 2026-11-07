@@ -57,9 +57,9 @@
       "file": "exteria_2.3.0-stable.deb",
       "sha256": "7a37ecd1a16d7a678534a259dfea8cdcb1ac9597c6479d52ed6bd565fdbb6420"
     },
-    "com.sqmrak.rewind/1.2.1-stable": {
-      "file": "rewind_1.2.1-stable.deb",
-      "sha256": "13aee218a494bb4aebffd622ef318e7f99a7d6ff0fa362978abf8a94036e9bcf"
+    "com.sqmrak.rewind/1.3.0-stable": {
+      "file": "rewind_1.3.0-stable.deb",
+      "sha256": "fe304d48ee46e8584a1a7ce4ec71e9b500d65ea4c59f68a437b120f4cc8c5db8"
     },
     "com.sqmrak.shapka/1.0.0-stable": {
       "file": "shapka_1.0.0-stable.deb",
