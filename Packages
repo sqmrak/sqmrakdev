@@ -1,0 +1,329 @@
+Package: com.byebyedpi.daemon
+Version: 1.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/byebyedpi-v1.0.0-stable.deb
+Size: 3257154
+MD5sum: 93647cb1922415a6431ab040b323c4a1
+SHA1: 1af8665fd8f03ab6a86824aa2491fc86468b3e36
+SHA256: 767b7686d4445dc328ddbb9de0f3b909ba88f2a83ff46b10ed484a74b28d21e4
+Section: Networking
+Priority: optional
+Description: byebyedpi client for iOS 5+
+Author: sqmrak
+Name: ByeByeDPI
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.byebyedpi.daemon
+Version: 1.1.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/byebyedpi-v1.1.0-stable.deb
+Size: 8114142
+MD5sum: 3a8505290d90a4b43463fe221dc2c4a2
+SHA1: ff32ebe13d09929b433ca81f4b3f02197454771c
+SHA256: 11ec8dc2212d36542da4e0aabd797c41aba951e79e7eee5dd68c7b1601b083ba
+Section: Networking
+Priority: optional
+Description: byebyedpi client for iOS 5+
+Author: sqmrak
+Name: ByeByeDPI
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.byebyedpi.daemon
+Version: 1.2.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/byebyedpi-v1.2.0-stable.deb
+Size: 6886538
+MD5sum: 04663756f927a04bdbe7e1dc8c413af3
+SHA1: c0842a9dfd1aee59feb247fc257988c7ebcdc5c7
+SHA256: 64ff11fb4f7bf19cae3b0ce637b552306040d54a34a755638e8a34424c2ae432
+Section: Networking
+Priority: optional
+Description: byebyedpi client for iOS 5+
+Author: sqmrak
+Name: ByeByeDPI
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 4.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 4.3)
+Filename: debs/senko-v4.0.0-stable.deb
+Size: 21766904
+MD5sum: 9289f94d7b88671f91c51147aa89e39b
+SHA1: 9c9fa59e3716742d7f9ee9c1daa0f755f50637ce
+SHA256: 2c6431eff592efa474c7d3a81eb2431983bf3e112a03c4351fc7a9e6e7fa78c5
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 4.3+
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 4.0.1-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 4.3)
+Filename: debs/senko-v4.0.1-stable.deb
+Size: 21886088
+MD5sum: ad9145f2f372633976ac7106cd0b4469
+SHA1: dfbb28617b0226bab8e8eebc1c57e1099cd0b0c6
+SHA256: 2c6831fa5627d104daf3403cdfa2b0f42ed51549340226105d32a8bb90c1176a
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 4.3+
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 4.1.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 4.3)
+Filename: debs/senko-v4.1.0-stable.deb
+Size: 22063174
+MD5sum: fa46e67ca9c23c5d561ab9f2acee73c7
+SHA1: 6880165c4fce0c1e996e229347c76261bc721c16
+SHA256: 77d72aebaf6e7653ba63e54de75f506fe40c87fa41cf82e6e3fa22c02d4b6f6d
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 4.3+
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 4.1.1-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 4.3)
+Filename: debs/senko-v4.1.1-stable.deb
+Size: 21901478
+MD5sum: c86fa2dbb87f6d88f402502b2da4da06
+SHA1: f24ae5013e6b2147d75c97a971a475d8d2b4e22d
+SHA256: 27c374fe4a79002d7b263b5537bbb4d53b700e856a8361ce7926076335d620fa
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 4.3+
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 4.2.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 4.3)
+Filename: debs/senko-v4.2.0-stable.deb
+Size: 22641148
+MD5sum: f435f8ebf4e59e21bab4b94f18422093
+SHA1: 8ae33466db9432b3196296fd9beec3fe7ed87a84
+SHA256: 13605f325e6ba7e0733fa957f32c010a66710de71195c1ed07064aa92c8d672a
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 4.3+
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.shiro.daemon
+Version: 1.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/shiro-1.0.0-stable.deb
+Size: 6670550
+MD5sum: f20c1dffee825931cfa89a79d5908166
+SHA1: cb5588fd553a811bf1ad3c2be215ebdc821963d3
+SHA256: cd34ee4a10e46130c291b6dd5297799e455f51428e922855f9483c11f3ac06fc
+Section: Networking
+Priority: optional
+Description: cloudflare warp client for iOS 5+
+Author: sqmrak
+Name: Shiro
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.shiro.daemon
+Version: 1.1.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/shiro-1.1.0-stable.deb
+Size: 6677006
+MD5sum: bf39b7b607df2a3235d095cd613889d8
+SHA1: e1d37d5d77207a297e1b3dab9ec1380010554fda
+SHA256: 12a2cd1601910064c374af2b94804ab059a2d62ce0c167eca6f087f154d61332
+Section: Networking
+Priority: optional
+Description: cloudflare warp client for iOS 5+
+Author: sqmrak
+Name: Shiro
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.shiro.daemon
+Version: 1.2.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/shiro-v1.2.0-stable.deb
+Size: 7704554
+MD5sum: ab245ab9e528494c51006cc475972b0a
+SHA1: 75a935b840144e3cb1f5aafbf82bef035d9a4d18
+SHA256: 47a7e466623633e9f2242451da98a04cc64232677cac5b4b759794e255b195f5
+Section: Networking
+Priority: optional
+Description: cloudflare warp client for iOS 5+
+Author: sqmrak
+Name: Shiro
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.exteria
+Version: 2.1.0-stable
+Architecture: all
+Maintainer: sqmrak
+Installed-Size: 76168
+Depends: firmware (>= 5.0)
+Filename: debs/exteria_2.1.0-stable.deb
+Size: 39739978
+MD5sum: b127596ea434ad0e151e171baf2ab4a4
+SHA1: f789d90e53a31f0897c31e93300b6a06100b6601
+SHA256: 4d30aece621c1355615d5a794fd5a2c2a76b5faceb4630e50d1a36768f44ad24
+Section: Messaging
+Priority: optional
+Description: native telegram client for iOS 5+
+Author: sqmrak
+License: GPL-3.0-only
+Name: Exteria
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.exteria
+Version: 2.2.0-stable
+Architecture: all
+Maintainer: sqmrak
+Installed-Size: 95272
+Depends: firmware (>= 5.0)
+Filename: debs/exteria_2.2.0-stable.deb
+Size: 47078010
+MD5sum: 9a9764577df3531bbdc57128e7beffb9
+SHA1: 4c00c8e1386f75be295ae11fda4fdccfcd0318b2
+SHA256: 505831026a63738fe4ab9c3b591fdb2469ba3b9097c90b05ac0f4866bfe607a3
+Section: Messaging
+Priority: optional
+Description: native telegram client for iOS 5+
+Author: sqmrak
+License: GPL-3.0-only
+Name: Exteria
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.exteria
+Version: 2.3.0-stable
+Architecture: all
+Maintainer: sqmrak
+Installed-Size: 95428
+Depends: firmware (>= 5.0)
+Filename: debs/exteria_2.3.0-stable.deb
+Size: 47145518
+MD5sum: e1c49f1e59b585a615e93cb5c9d486a5
+SHA1: 7064e16d60da872f352de09cb4f9a09bee2de1f6
+SHA256: 7a37ecd1a16d7a678534a259dfea8cdcb1ac9597c6479d52ed6bd565fdbb6420
+Section: Messaging
+Priority: optional
+Description: native telegram client for iOS 5+
+Author: sqmrak
+License: GPL-3.0-only
+Name: Exteria
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.rewind
+Version: 1.2.1-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Conflicts: com.sqmrak.tunetube
+Replaces: com.sqmrak.tunetube
+Provides: com.sqmrak.tunetube
+Filename: debs/rewind_1.2.1-stable.deb
+Size: 6855966
+MD5sum: 4b87f654631b6e5a79bad8762728f2e5
+SHA1: 62fe5ff790135cd6eadbf1563bb49cacaa7d326b
+SHA256: 13aee218a494bb4aebffd622ef318e7f99a7d6ff0fa362978abf8a94036e9bcf
+Section: Multimedia
+Priority: optional
+Description: youtube music client for iOS 5+
+Author: sqmrak
+License: GPL-2.0-only
+Name: Rewind
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.shapka
+Version: 1.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/shapka_1.0.0-stable.deb
+Size: 11502966
+MD5sum: 4a1c253ac7007acc4c9c7e1f035c4efb
+SHA1: fed64d926c102e3b07d57d2137f6d2d4b7c9affa
+SHA256: eeaed03852381592c2aa04c3c19d3a3095a7ac4afc42ccbdd542ab0759a60df9
+Section: Social
+Priority: optional
+Description: 4pda forum client for iOS 5+
+Author: sqmrak
+Name: Shapka
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.shapka/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.shapka/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.shapka/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
