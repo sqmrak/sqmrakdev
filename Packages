@@ -1,0 +1,125 @@
+Package: com.byebyedpi.daemon
+Version: 1.2.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/byebyedpi-v1.2.0-stable.deb
+Size: 6886538
+MD5sum: 04663756f927a04bdbe7e1dc8c413af3
+SHA1: c0842a9dfd1aee59feb247fc257988c7ebcdc5c7
+SHA256: 64ff11fb4f7bf19cae3b0ce637b552306040d54a34a755638e8a34424c2ae432
+Section: Networking
+Priority: optional
+Description: byebyedpi client for iOS 5+
+Author: sqmrak
+Name: ByeByeDPI
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.byebyedpi.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.senko.daemon
+Version: 4.3.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 4.3)
+Filename: debs/senko-v4.3.0-stable.deb
+Size: 22750968
+MD5sum: 58643488a9b96be8f3a3ac2535bd6df3
+SHA1: 8b61e4002e2985e15bdfd6731bd1b75d587f950c
+SHA256: 4e7fa35a4cebec670d1cd0783e9675d9c917f404154d2667904430372b0e5ebc
+Section: Networking
+Priority: optional
+Description: vless/amnezia client for iOS 4.3+
+Author: sqmrak
+Name: Senko
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.senko.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.shiro.daemon
+Version: 1.2.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/shiro-v1.2.0-stable.deb
+Size: 7704554
+MD5sum: ab245ab9e528494c51006cc475972b0a
+SHA1: 75a935b840144e3cb1f5aafbf82bef035d9a4d18
+SHA256: 47a7e466623633e9f2242451da98a04cc64232677cac5b4b759794e255b195f5
+Section: Networking
+Priority: optional
+Description: cloudflare warp client for iOS 5+
+Author: sqmrak
+Name: Shiro
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.shiro.daemon/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.exteria
+Version: 3.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Installed-Size: 102968
+Depends: firmware (>= 5.0)
+Filename: debs/exteria_3.0.0-stable.deb
+Size: 49530046
+MD5sum: 8c9fb8a041b4bc7a4e387f5cffdfbb8c
+SHA1: 58ed1fcc448b562c26f706ce7e6583798bd8a331
+SHA256: 7c5cd3ef8c71858659916470fec057db3d0417cbd3807d8492a8155d6cb1cd04
+Section: Messaging
+Priority: optional
+Description: native telegram client for iOS 5+
+Author: sqmrak
+License: GPL-3.0-only
+Name: Exteria
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.exteria/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.rewind
+Version: 1.3.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Conflicts: com.sqmrak.tunetube
+Replaces: com.sqmrak.tunetube
+Provides: com.sqmrak.tunetube
+Filename: debs/rewind_1.3.0-stable.deb
+Size: 6866688
+MD5sum: f6486e83e5cd547662b61e5c08f54718
+SHA1: 7fe70e665279b0f6756b873937d9769533b75bc4
+SHA256: fe304d48ee46e8584a1a7ce4ec71e9b500d65ea4c59f68a437b120f4cc8c5db8
+Section: Multimedia
+Priority: optional
+Description: youtube music client for iOS 5+
+Author: sqmrak
+License: GPL-2.0-only
+Name: Rewind
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.rewind/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
+
+Package: com.sqmrak.shapka
+Version: 1.0.0-stable
+Architecture: all
+Maintainer: sqmrak
+Depends: firmware (>= 5.0)
+Filename: debs/shapka_1.0.0-stable.deb
+Size: 11502966
+MD5sum: 4a1c253ac7007acc4c9c7e1f035c4efb
+SHA1: fed64d926c102e3b07d57d2137f6d2d4b7c9affa
+SHA256: eeaed03852381592c2aa04c3c19d3a3095a7ac4afc42ccbdd542ab0759a60df9
+Section: Social
+Priority: optional
+Description: 4pda forum client for iOS 5+
+Author: sqmrak
+Name: Shapka
+Depiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.shapka/
+SileoDepiction: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.shapka/sileo.json
+Icon: https://sqmrak.github.io/sqmrakdev/depictions/com.sqmrak.shapka/icon.png
+Homepage: https://sqmrak.github.io/sqmrakdev/
