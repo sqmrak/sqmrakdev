@@ -24,6 +24,10 @@
     "com.sqmrak.shapka/1.0.0-stable": {
       "file": "shapka_1.0.0-stable.deb",
       "sha256": "eeaed03852381592c2aa04c3c19d3a3095a7ac4afc42ccbdd542ab0759a60df9"
+    },
+    "ru.sqmrak.weeabu/1.0.0-stable": {
+      "file": "weeabu-v1.0.0-stable.deb",
+      "sha256": "eb7dbcdedf729c46ec2f90f49b027d67bca9f7cbfe4b759ae37fa46fb80e1388"
     }
   }
 }
