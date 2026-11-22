@@ -25,9 +25,9 @@
       "file": "shapka_1.0.0-stable.deb",
       "sha256": "eeaed03852381592c2aa04c3c19d3a3095a7ac4afc42ccbdd542ab0759a60df9"
     },
-    "com.sqmrak.yozora/1.2.0-stable": {
-      "file": "yozora-v1.2.0-stable.deb",
-      "sha256": "7028e0aaefa84d13ad81b084089641fac9566179cc91fc7dd1b91d6134ea2a8f"
+    "com.sqmrak.yozora/1.3.0-stable": {
+      "file": "yozora-v1.3.0-stable.deb",
+      "sha256": "79e3a73cb36b0b3937e76afa6ad193b0738d670b67e1c1ed1c4eca7b38809c92"
     },
     "ru.sqmrak.weeabu/1.0.0-stable": {
       "file": "weeabu-v1.0.0-stable.deb",
