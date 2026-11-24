@@ -1,9 +1,9 @@
 {
   "nightly": {},
   "stable": {
-    "com.byebyedpi.daemon/1.2.0-stable": {
-      "file": "byebyedpi-v1.2.0-stable.deb",
-      "sha256": "64ff11fb4f7bf19cae3b0ce637b552306040d54a34a755638e8a34424c2ae432"
+    "com.byebyedpi.daemon/1.3.0-stable": {
+      "file": "byebyedpi-v1.3.0-stable.deb",
+      "sha256": "57ef55a431ebd162e2e0101f25fc8729607113ad0bf9790dc174d43a665e45b9"
     },
     "com.senko.daemon/4.4.0-stable": {
       "file": "senko-v4.4.0-stable.deb",
