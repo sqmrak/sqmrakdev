@@ -1,0 +1,54 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#2f6bff",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Weeabu"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "pikabu client for iOS 5+"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0-stable"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Size",
+          "text": "9.6 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "sqmrak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Social"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Identifier",
+          "text": "ru.sqmrak.weeabu"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "firmware (>= 5.0)"
+        }
+      ]
+    }
+  ]
+}
